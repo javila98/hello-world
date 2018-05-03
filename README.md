@@ -1,3 +1,2 @@
-# hello-world
 My name is Jose Avila.
-I and I don't really like computer programming because I thik it's difficult.
+I believe computer progamming is difficult, and that's the reason I don't like it.
